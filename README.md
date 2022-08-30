@@ -1,3 +1,12 @@
+REACT ÇALIŞMALARI
+
+<h1>HAVA DURUMU</>
+
+<img src="https://github.com/darahta/react-hava_durumu/blob/main/havadrm.gif" />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
